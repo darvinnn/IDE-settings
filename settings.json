@@ -1,0 +1,46 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "emmet.showExpandedAbbreviation": "never",
+  // "editor.lightbulb.enabled": false,
+  "files.defaultLanguage": "html",
+  "editor.parameterHints.enabled": false,
+  "terminal.integrated.fontSize": 16,
+  "editor.renderWhitespace": "boundary",
+  "editor.lineHeight": 30,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.glyphMargin": false,
+  "diffEditor.renderMarginRevertIcon": false,
+  "diffEditor.renderIndicators": false,
+  "editor.renderLineHighlight": "none",
+  "scm.diffDecorationsGutterVisibility": "hover",
+  "testing.gutterEnabled": false,
+  "scm.diffDecorationsGutterWidth": 1,
+  "scm.diffDecorations": "gutter",
+  "security.workspace.trust.enabled": false,
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "explorer.confirmDelete": false,
+  "git.openRepositoryInParentFolders": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "prettier.jsxSingleQuote": true,
+  "ecsstractor_port.attributes": "className",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.fontSize": 15,
+  "inline-parameters.fontStyle": "normal"
+}
